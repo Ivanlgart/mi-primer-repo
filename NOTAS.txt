@@ -1,0 +1,4 @@
+Fases del desarrollo que más destaco:
+Analisis
+Diseño
+Codificacion
